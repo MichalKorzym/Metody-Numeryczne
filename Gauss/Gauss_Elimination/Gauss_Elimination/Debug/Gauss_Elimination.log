@@ -1,0 +1,10 @@
+﻿  Źródło.cpp
+D:\Metody Numeryczne\Gauss\Gauss_Elimination\Gauss_Elimination\Źródło.cpp(18,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Metody Numeryczne\Gauss\Gauss_Elimination\Gauss_Elimination\Źródło.cpp(20,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Metody Numeryczne\Gauss\Gauss_Elimination\Gauss_Elimination\Źródło.cpp(21,21): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+D:\Metody Numeryczne\Gauss\Gauss_Elimination\Gauss_Elimination\Źródło.cpp(32,20): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+D:\Metody Numeryczne\Gauss\Gauss_Elimination\Gauss_Elimination\Źródło.cpp(35,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Metody Numeryczne\Gauss\Gauss_Elimination\Gauss_Elimination\Źródło.cpp(38,26): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Metody Numeryczne\Gauss\Gauss_Elimination\Gauss_Elimination\Źródło.cpp(45,26): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Metody Numeryczne\Gauss\Gauss_Elimination\Gauss_Elimination\Źródło.cpp(51,23): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+  Gauss_Elimination.vcxproj -> D:\Metody Numeryczne\Gauss\Gauss_Elimination\Debug\Gauss_Elimination.exe
