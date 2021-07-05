@@ -1,0 +1,26 @@
+﻿  Źródło.cpp
+D:\Metody Numeryczne\Ortogonalizacja\Project1\Michał_Korzym_Ortogonalizacja\Project1\Źródło.cpp(27,17): warning C4244: "argument": konwersja z "double" do "unsigned int", możliwa utrata danych
+D:\Metody Numeryczne\Ortogonalizacja\Project1\Michał_Korzym_Ortogonalizacja\Project1\Źródło.cpp(27,39): warning C4244: "argument": konwersja z "double" do "unsigned int", możliwa utrata danych
+D:\Metody Numeryczne\Ortogonalizacja\Project1\Michał_Korzym_Ortogonalizacja\Project1\Źródło.cpp(78,33): warning C4244: "inicjowanie": konwersja z "double" do "size_t", możliwa utrata danych
+D:\Metody Numeryczne\Ortogonalizacja\Project1\Michał_Korzym_Ortogonalizacja\Project1\Źródło.cpp(87,33): warning C4244: "inicjowanie": konwersja z "double" do "size_t", możliwa utrata danych
+D:\Metody Numeryczne\Ortogonalizacja\Project1\Michał_Korzym_Ortogonalizacja\Project1\Źródło.cpp(100,33): warning C4244: "inicjowanie": konwersja z "double" do "size_t", możliwa utrata danych
+D:\Metody Numeryczne\Ortogonalizacja\Project1\Michał_Korzym_Ortogonalizacja\Project1\Źródło.cpp(115,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Metody Numeryczne\Ortogonalizacja\Project1\Michał_Korzym_Ortogonalizacja\Project1\Źródło.cpp(119,15): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Metody Numeryczne\Ortogonalizacja\Project1\Michał_Korzym_Ortogonalizacja\Project1\Źródło.cpp(120,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Metody Numeryczne\Ortogonalizacja\Project1\Michał_Korzym_Ortogonalizacja\Project1\Źródło.cpp(128,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Metody Numeryczne\Ortogonalizacja\Project1\Michał_Korzym_Ortogonalizacja\Project1\Źródło.cpp(133,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Metody Numeryczne\Ortogonalizacja\Project1\Michał_Korzym_Ortogonalizacja\Project1\Źródło.cpp(158,33): warning C4244: "inicjowanie": konwersja z "double" do "size_t", możliwa utrata danych
+D:\Metody Numeryczne\Ortogonalizacja\Project1\Michał_Korzym_Ortogonalizacja\Project1\Źródło.cpp(176,33): warning C4244: "inicjowanie": konwersja z "double" do "size_t", możliwa utrata danych
+D:\Metody Numeryczne\Ortogonalizacja\Project1\Michał_Korzym_Ortogonalizacja\Project1\Źródło.cpp(201,38): warning C4244: "inicjowanie": konwersja z "double" do "size_t", możliwa utrata danych
+D:\Metody Numeryczne\Ortogonalizacja\Project1\Michał_Korzym_Ortogonalizacja\Project1\Źródło.cpp(223,30): warning C4244: "inicjowanie": konwersja z "double" do "size_t", możliwa utrata danych
+D:\Metody Numeryczne\Ortogonalizacja\Project1\Michał_Korzym_Ortogonalizacja\Project1\Źródło.cpp(230,36): warning C4244: "inicjowanie": konwersja z "double" do "size_t", możliwa utrata danych
+D:\Metody Numeryczne\Ortogonalizacja\Project1\Michał_Korzym_Ortogonalizacja\Project1\Źródło.cpp(232,32): warning C4244: "inicjowanie": konwersja z "double" do "size_t", możliwa utrata danych
+D:\Metody Numeryczne\Ortogonalizacja\Project1\Michał_Korzym_Ortogonalizacja\Project1\Źródło.cpp(259,32): warning C4244: "inicjowanie": konwersja z "double" do "size_t", możliwa utrata danych
+D:\Metody Numeryczne\Ortogonalizacja\Project1\Michał_Korzym_Ortogonalizacja\Project1\Źródło.cpp(261,26): warning C4244: "inicjowanie": konwersja z "double" do "size_t", możliwa utrata danych
+D:\Metody Numeryczne\Ortogonalizacja\Project1\Michał_Korzym_Ortogonalizacja\Project1\Źródło.cpp(275,44): warning C4244: "inicjowanie": konwersja z "double" do "size_t", możliwa utrata danych
+D:\Metody Numeryczne\Ortogonalizacja\Project1\Michał_Korzym_Ortogonalizacja\Project1\Źródło.cpp(277,37): warning C4244: "inicjowanie": konwersja z "double" do "size_t", możliwa utrata danych
+D:\Metody Numeryczne\Ortogonalizacja\Project1\Michał_Korzym_Ortogonalizacja\Project1\Źródło.cpp(280,40): warning C4244: "argument": konwersja z "double" do "unsigned int", możliwa utrata danych
+D:\Metody Numeryczne\Ortogonalizacja\Project1\Michał_Korzym_Ortogonalizacja\Project1\Źródło.cpp(290,42): warning C4244: "inicjowanie": konwersja z "double" do "size_t", możliwa utrata danych
+D:\Metody Numeryczne\Ortogonalizacja\Project1\Michał_Korzym_Ortogonalizacja\Project1\Źródło.cpp(292,35): warning C4244: "inicjowanie": konwersja z "double" do "size_t", możliwa utrata danych
+D:\Metody Numeryczne\Ortogonalizacja\Project1\Michał_Korzym_Ortogonalizacja\Project1\Źródło.cpp(309,44): warning C4244: "argument": konwersja z "double" do "unsigned int", możliwa utrata danych
+  Project1.vcxproj -> D:\Metody Numeryczne\Ortogonalizacja\Project1\Michał_Korzym_Ortogonalizacja\x64\Debug\Project1.exe
