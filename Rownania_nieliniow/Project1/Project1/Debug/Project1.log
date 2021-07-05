@@ -1,0 +1,6 @@
+﻿  Źródło.cpp
+D:\Metody Numeryczne\Rownania_nieliniow\Project1\Project1\Źródło.cpp(154,18): warning C4101: "check": lokalna zmienna, do której nie istnieje odwołanie
+D:\Metody Numeryczne\Rownania_nieliniow\Project1\Project1\Źródło.cpp(178): warning C4715: "Secant_Method”: niewszystkie ścieżki kodu zwracają wartość
+D:\Metody Numeryczne\Rownania_nieliniow\Project1\Project1\Źródło.cpp(149): warning C4715: "Bisection_Method”: niewszystkie ścieżki kodu zwracają wartość
+D:\Metody Numeryczne\Rownania_nieliniow\Project1\Project1\Źródło.cpp(120): warning C4715: "Falsi_Method”: niewszystkie ścieżki kodu zwracają wartość
+  Project1.vcxproj -> D:\Metody Numeryczne\Rownania_nieliniow\Project1\Debug\Project1.exe
