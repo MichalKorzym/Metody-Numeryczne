@@ -1,0 +1,10 @@
+﻿  Źródło.cpp
+D:\Metody Numeryczne\Michał_Korzym_Interpolacja\metody_numeryczne\Źródło.cpp(46,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Metody Numeryczne\Michał_Korzym_Interpolacja\metody_numeryczne\Źródło.cpp(61,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Metody Numeryczne\Michał_Korzym_Interpolacja\metody_numeryczne\Źródło.cpp(65,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Metody Numeryczne\Michał_Korzym_Interpolacja\metody_numeryczne\Źródło.cpp(82,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Metody Numeryczne\Michał_Korzym_Interpolacja\metody_numeryczne\Źródło.cpp(86,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Metody Numeryczne\Michał_Korzym_Interpolacja\metody_numeryczne\Źródło.cpp(93,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Metody Numeryczne\Michał_Korzym_Interpolacja\metody_numeryczne\Źródło.cpp(96,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Metody Numeryczne\Michał_Korzym_Interpolacja\metody_numeryczne\Źródło.cpp(107,6): warning C4101: "tmp": lokalna zmienna, do której nie istnieje odwołanie
+  metody_numeryczne.vcxproj -> D:\Metody Numeryczne\Michał_Korzym_Interpolacja\Debug\metody_numeryczne.exe
